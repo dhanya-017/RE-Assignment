@@ -1,0 +1,16 @@
+# 🔐 Security
+credentials/
+token.json
+state.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE / OS
+.idea/
+.DS_Store
+.vscode/
